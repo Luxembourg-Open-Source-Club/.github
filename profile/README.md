@@ -16,4 +16,4 @@ It's very simple. You can join our [**Discord server**](https://discord.gg/Ya7Xf
 - How to use our collective resources.
 
 ## Our Conventions
-Please refer to our conventions [document](./conventions.md)
+Please refer to our conventions [document](././conventions.md)
