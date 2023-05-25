@@ -80,11 +80,8 @@ the branch should be named starting with the prefix `bugfix/.`
 
 1. **Main Branches:** Keep the repository's main branches stable and production-ready. The following branches are commonly used:
 
-    - `main` or `master`: The main branch containing the production-ready code.
-    - `develop`: The branch where ongoing development and integration take place.
-
+    - `main`: The main branch containing the production-ready code.
+    - `dev`: The branch where ongoing development and integration take place.
 
 Whenever everything has been accomplished related to the branch, perform a pull-request to the `dev` branch. 
 If everything is fine, the changes made will be reviewed by the repository responsible and then merged into the `dev` branch.
-
-
