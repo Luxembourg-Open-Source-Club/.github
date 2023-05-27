@@ -7,6 +7,7 @@ be consistent across all the organization repositories.
 - [Commits Conventions](#commits-conventions)
     - [Some examples](#some-examples)
 - [Branch Conventions](#branch-conventions)
+- [Code Formatting](#code-formatting)
 <!--toc:end-->
 
 
@@ -85,3 +86,9 @@ the branch should be named starting with the prefix `bugfix/.`
 
 Whenever everything has been accomplished related to the branch, perform a pull-request to the `dev` branch. 
 If everything is fine, the changes made will be reviewed by the repository responsible and then merged into the `dev` branch.
+
+## Code Formatting
+
+When coding, it is important to maintain a consistent stucture throughout the entire code base of any repository. For this matter, we enforce the use of formatting tools which will ensure that everyone will use the same format. Different formatters are available for each programming language and thus there is no formatter that will work for every programming language. 
+
+Since we will be mostly coding in Python, the formatter that we have chosen is `black`. If using Vs Code, you can activate this in your settings. You can then format the code by hitting the keys combination (Ctrl + Shift + i in linux/windows) in order to perform the formatting. In addition, you can also toggle in Vs Code settings `Format On Save`, which will format the file every time you save it.
