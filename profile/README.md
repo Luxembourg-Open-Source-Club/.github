@@ -11,7 +11,5 @@ We are currently working on the [BICS-BOT](https://github.com/Luxembourg-Open-So
 
 ## How can you be a part of this club?
 Join our [**Discord server**](https://discord.gg/m9q7X7mBM4) and introduce yourself!
-Meeting information:
-- Place: MAE 1.010
-- Day: Monday
-- Time: 16h-17h
+
+**_We meet every Monday at 16h, in MAE 1.010_**
