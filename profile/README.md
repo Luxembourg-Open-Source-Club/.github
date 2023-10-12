@@ -7,13 +7,11 @@ We are a student led club at the University of Luxembourg, made up of passionate
 Our goal is to develop best practices for software engineering and overall project management while celebrating the great medium of open-source.
 
 ## What are we doing right now?
-We are currently working on the [BICS-BOT](https://github.com/Luxembourg-Open-Source-Club/BICS-BOT). It is a Discord bot written in Python that is made for universities to organize studies. It is intended to be used on, for example; a Discord server for the _Bachelor in Computer Science_ students in the University of Luxembourg :)
+We are currently working on the [BICS-BOT](https://github.com/Luxembourg-Open-Source-Club/BICS-BOT). It is a Discord bot written in Python that is made BICS students to organize the student Discord server.
 
 ## How can you be a part of this club?
-It's very simple. You can join our [**Discord server**](https://discord.gg/m9q7X7mBM4) to stay up-to-date with all organizational news. There you can find:
-- Where and when we meet.
-- How we work as a team.
-- How to use our collective resources.
-
-## Our Conventions
-Please refer to our conventions [document](https://github.com/Luxembourg-Open-Source-Club/.github/blob/main/CONVENTIONS.md)
+Join our [**Discord server**](https://discord.gg/m9q7X7mBM4) and introduce yourself!
+Meeting information:
+- Place: MAE 1.010
+- Day: Monday
+- Time: 16h-17h
